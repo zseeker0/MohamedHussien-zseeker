@@ -10,6 +10,10 @@
 
 ---
 
+## About
+
+I'm **Mohamed Hussien**, known online as **zseeker** (`@zseeker0`). I build security-minded, local-first AI infrastructure and developer tools.
+
 ## Building now
 
 **[ContextLedger](https://github.com/zseeker0/ContextLedger)** — Git for AI memory. Local-first, human-editable memory infrastructure for AI agents: Markdown vault, SQLite FTS5 search, CLI + REST + MCP. GPL-3.0, 93 tests.
